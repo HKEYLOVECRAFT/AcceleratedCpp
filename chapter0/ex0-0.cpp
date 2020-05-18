@@ -1,7 +1,7 @@
 // a small C++ program
 #include <iostream>
 
-/*
+
 int main()
 {	//0.0 ex (the original hello world program)
 	std::cout << "Hello, world!" << std::endl;
@@ -19,11 +19,11 @@ int main()
 	
 	return 0;
 }
-*/
 
+/*
 #include <iostream>
 int main() {{{{{{ std::cout << "Hello, world!" << std::endl; }}}}}}
-
+*/
 
 /* The rest of the exercises
 
